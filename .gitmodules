@@ -1,0 +1,3 @@
+[submodule "damnpaul"]
+	path = damnpaul
+	url = git@github.com:pschyska/damnpaul.git

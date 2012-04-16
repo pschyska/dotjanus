@@ -1,3 +1,6 @@
 [submodule "damnpaul"]
 	path = damnpaul
 	url = git@github.com:pschyska/damnpaul.git
+[submodule "vim-yankring"]
+	path = vim-yankring
+	url = git://github.com/chrismetcalf/vim-yankring.git

@@ -7,3 +7,6 @@
 [submodule "AutoTag"]
 	path = AutoTag
 	url = https://github.com/vim-scripts/AutoTag.git
+[submodule "vim-golang"]
+	path = vim-golang
+	url = https://github.com/jnwhiteh/vim-golang

@@ -10,3 +10,6 @@
 [submodule "vim-golang"]
 	path = vim-golang
 	url = https://github.com/jnwhiteh/vim-golang
+[submodule "YankRing.vim"]
+	path = YankRing.vim
+	url = https://github.com/vim-scripts/YankRing.vim

@@ -16,6 +16,3 @@
 [submodule "camelcasemotion"]
 	path = camelcasemotion
 	url = https://github.com/vim-scripts/camelcasemotion
-[submodule "CamelCaseComplete"]
-	path = CamelCaseComplete
-	url = git@github.com:vim-scripts/CamelCaseComplete.git

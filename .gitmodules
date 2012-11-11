@@ -1,18 +1,20 @@
 [submodule "damnpaul"]
 	path = damnpaul
-	url = git@github.com:pschyska/damnpaul.git
-#[submodule "vim-yankring"]
-#	path = vim-yankring
-#	url = git://github.com/chrismetcalf/vim-yankring.git
+  url = git@github.com:pschyska/damnpaul.git
+  ignore = untracked
 [submodule "AutoTag"]
 	path = AutoTag
 	url = https://github.com/vim-scripts/AutoTag.git
+  ignore = untracked
 [submodule "vim-golang"]
 	path = vim-golang
 	url = https://github.com/jnwhiteh/vim-golang
+  ignore = untracked
 [submodule "YankRing.vim"]
 	path = YankRing.vim
 	url = https://github.com/vim-scripts/YankRing.vim
+  ignore = untracked
 [submodule "camelcasemotion"]
 	path = camelcasemotion
 	url = https://github.com/vim-scripts/camelcasemotion
+  ignore = untracked

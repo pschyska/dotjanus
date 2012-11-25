@@ -18,3 +18,12 @@
 	path = camelcasemotion
 	url = https://github.com/vim-scripts/camelcasemotion
   ignore = untracked
+[submodule "vitality.vim"]
+	path = vitality.vim
+	url = git@github.com:sjl/vitality.vim.git
+[submodule "vim-issues"]
+	path = vim-issues
+	url = https://github.com/mklabs/vim-issues
+[submodule "jshint.vim"]
+	path = jshint.vim
+	url = git://github.com/walm/jshint.vim.git

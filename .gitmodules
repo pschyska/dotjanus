@@ -34,3 +34,6 @@
 	path = scratch.vim
 	url = https://github.com/vim-scripts/scratch.vim.git
   ignore = untracked
+[submodule "nerdtree"]
+	path = nerdtree
+	url = git@github.com:pschyska/nerdtree.git

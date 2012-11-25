@@ -21,12 +21,16 @@
 [submodule "vitality.vim"]
 	path = vitality.vim
 	url = git@github.com:sjl/vitality.vim.git
+  ignore = untracked
 [submodule "vim-issues"]
 	path = vim-issues
 	url = https://github.com/mklabs/vim-issues
+  ignore = untracked
 [submodule "jshint.vim"]
 	path = jshint.vim
 	url = git://github.com/walm/jshint.vim.git
+  ignore = untracked
 [submodule "scratch.vim"]
 	path = scratch.vim
 	url = https://github.com/vim-scripts/scratch.vim.git
+  ignore = untracked

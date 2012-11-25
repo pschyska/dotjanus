@@ -27,3 +27,6 @@
 [submodule "jshint.vim"]
 	path = jshint.vim
 	url = git://github.com/walm/jshint.vim.git
+[submodule "scratch.vim"]
+	path = scratch.vim
+	url = https://github.com/vim-scripts/scratch.vim.git

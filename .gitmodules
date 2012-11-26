@@ -34,3 +34,6 @@
 	path = scratch.vim
 	url = https://github.com/vim-scripts/scratch.vim.git
   ignore = untracked
+[submodule "vim-align"]
+	path = vim-align
+	url = git@github.com:tsaleh/vim-align.git
